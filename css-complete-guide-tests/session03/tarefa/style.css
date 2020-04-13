@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+
+html, body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    height: 100%;
+}
+
+.box {
+    padding: 3px 4px 5px 6px;
+    border: 2px dotted #c35514;
+    margin: 6px 5px 4px 3px;
+    height: 300px;
+    width: 48%;
+    display: inline-block;
+}
+.first-box {
+    visibility: hidden;
+}
+
+.box:last-of-type:hover {
+    background-color: #c35514;
+}

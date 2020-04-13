@@ -1,0 +1,18 @@
+html, body {
+    width: 100%;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.card {
+    width: 50%;
+    display: inline-block;
+    background-color: burlywood;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 3px;
+    height: 200px;
+}

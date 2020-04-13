@@ -1,0 +1,13 @@
+.main-container {
+    padding: 30px;
+    border: 1px black solid;
+}
+
+.main-container > div {
+    border: 1px red solid;
+    padding: 20px;
+}
+
+.extent-container {
+    padding: 20px;
+}

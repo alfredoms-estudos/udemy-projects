@@ -1,0 +1,27 @@
+#assignment-instructions {
+    color: mediumpurple;
+    font-family: sans-serif;
+}
+
+.second-li code {
+    color: green;
+}
+
+code {
+    font-family: inherit;
+    color: red;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li + li {
+    background-color: black;
+    color: white;
+}
+
+ol > li {
+    background-color: black;
+    color: white;
+}
